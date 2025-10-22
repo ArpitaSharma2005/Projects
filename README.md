@@ -30,6 +30,7 @@ Table Of content
 ## JS Project
 
 1. Password Generator - https://github.com/ArpitaSharma2005/WEB-PROJECTS/tree/main/Password%20Generator
+2. Weather App - https://github.com/ArpitaSharma2005/WEB-PROJECTS/tree/main/WEATHER%20APP
 
 ## Java Projects
 
