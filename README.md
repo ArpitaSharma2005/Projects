@@ -27,6 +27,10 @@ Table Of content
 
 <hr>
 
+## JS Project
+
+1. Password Generator - https://github.com/ArpitaSharma2005/WEB-PROJECTS/tree/main/Password%20Generator
+
 ## Java Projects
 
 1. Password Generator using Java - https://github.com/KZarzour/Password-Generator
